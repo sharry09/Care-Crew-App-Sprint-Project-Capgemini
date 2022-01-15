@@ -1,5 +1,5 @@
 # The Care Crew Application
-The Care Crew Application aims at integrating various internal functionalities of a health care system in an efficient manner. 
+The Care Crew Application aims at integrating various internal functionalities of a health care system in an efficient and productive manner. 
 Admin, Hospital admin, Doctor,Patient,Laboratory Service,Medical Service, Ambulance Service can sign up to Life Line Application. Once signed in, he/she can able to sign in to the application and perform various activities.
 
 ![image](https://user-images.githubusercontent.com/68218730/149614592-753a8f25-dc36-4eeb-a4d1-b2d00c737db6.png)
